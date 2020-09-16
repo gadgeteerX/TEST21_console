@@ -1,0 +1,11 @@
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\obj\Debug\netcoreapp3.1\TEST21_console.csprojAssemblyReference.cache
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\obj\Debug\netcoreapp3.1\TEST21_console.AssemblyInfoInputs.cache
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\obj\Debug\netcoreapp3.1\TEST21_console.AssemblyInfo.cs
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\bin\Debug\netcoreapp3.1\TEST21_console.exe
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\bin\Debug\netcoreapp3.1\TEST21_console.deps.json
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\bin\Debug\netcoreapp3.1\TEST21_console.runtimeconfig.json
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\bin\Debug\netcoreapp3.1\TEST21_console.runtimeconfig.dev.json
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\bin\Debug\netcoreapp3.1\TEST21_console.dll
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\bin\Debug\netcoreapp3.1\TEST21_console.pdb
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\obj\Debug\netcoreapp3.1\TEST21_console.dll
+C:\Users\wlee0\source\repos\TEST21_console\TEST21_console\obj\Debug\netcoreapp3.1\TEST21_console.pdb
